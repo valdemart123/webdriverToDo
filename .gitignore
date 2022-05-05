@@ -26,3 +26,4 @@ lib/
 
 # next.js
 .next
+/package-lock.json
