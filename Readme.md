@@ -27,7 +27,7 @@ The project consists of folders
 ```bash
 webdriverToDo
 |
-|_ logs
+|_ results
 |
 |_test
 |_

@@ -28,7 +28,7 @@ describe('ToDo application Negative Tests', function () {
     const arabicText = data.getArabicText();
 
     await ToDoPage.createItem(arabicText);
-    await browser.saveScreenshot('./logs/screenshots/result_arabic.png');
+    await browser.saveScreenshot('./results/result_arabic.png');
     await expect(ToDoPage.firstItemToDo).toBeExisting();
   });
 
