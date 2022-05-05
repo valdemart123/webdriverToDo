@@ -1,0 +1,28 @@
+# Node
+node_modules/
+
+# Cache
+*.eslintcache
+.cache
+
+# Log files
+*.log
+npm-debug.log*
+
+# Mac
+.DS_Store
+
+# Editor
+.idea/
+*.iml
+*.vscode
+
+# Generated Files
+build/
+lib/
+
+# Environment Variables file
+.env
+
+# next.js
+.next
